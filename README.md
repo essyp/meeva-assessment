@@ -8,3 +8,5 @@
 - Run npm install
 - Run npm run dev
 - start application using php artisan serve
+
+use /admin for the admin portal
